@@ -6,5 +6,5 @@ int main()
 {
   	cout << "Hello World!" << endl;
 	cout << "Tjenare!" << endl;
-	cout << "Tjoooo!" <<< endl;
+	cout << "Tjoooo!" << endl;
 }
