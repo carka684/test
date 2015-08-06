@@ -8,4 +8,5 @@ int main()
 	cout << "Tjenare!" << endl;
 	cout << "Tjoooo!" << endl;
 	cout << "Hej igen!" << endl;
+	cout << "Hej igen2!" << endl;
 }
